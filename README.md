@@ -1,1 +1,1 @@
-# Repositorio da disciplina de Algorimo e Estrura de dados 
+# Repositorio da disciplina de Algorimo e Estrutura de dados 
